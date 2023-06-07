@@ -1,11 +1,10 @@
 import React from "react";
 import { aboutData } from "../constant";
 import lightDivider from "../assets/Ilustrasi/Divider/Divider-Light.png";
-import darkDivider from "../assets/Ilustrasi/Divider/Divider-Dark.png";
 
 const About = () => {
   return (
-    <section className="relative pb-16 text-center font-semibold about bg-dark min-h-[100vh] text-primary pt-24 px-40">
+    <section className="relative py-16 text-center font-semibold about bg-dark min-h-[100vh] text-primary pt-24 px-40">
       <h2 className="text-[42px] font-source font-bold">
         Kenalan dengan Bantoonusa
       </h2>

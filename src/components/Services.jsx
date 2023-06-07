@@ -5,7 +5,7 @@ import darkDivider from "../assets/Ilustrasi/Divider/Divider-Dark.png";
 
 const Services = () => {
   return (
-    <section className="bg-cream text-dark relative w-full px-10 py-20 text-center">
+    <section className="bg-cream text-dark py-28 relative w-full px-10 text-center">
       <h2 className="text-inter mb-6 text-5xl font-bold tracking-tighter">
         Beragam Website untuk Anda
       </h2>
